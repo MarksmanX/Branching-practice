@@ -1,10 +1,10 @@
-1. git checkout -b "name of branch" starts a new branch
+1. git checkout -b "name of branch" starts a new branch called "name of branch."
 
 2. Fast-forward merge happens when the original branch has not been worked on but the other branches have a conflict.
 Recursive merge happens when the original branch and another branch have a merge conflict.
 
 3. git checkout "name of branch" changes to another branch called "name of branch."
 
-4. git branch -D deletes a branch.
+4. git branch -D "name of branch" deletes a branch called "name of branch"
 
 5. A merge conflict happens when Git can't automatically figure out which branch to use for a change to the same file.
