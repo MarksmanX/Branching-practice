@@ -1,4 +1,4 @@
-1. git checkout -b "name of branch" creates a branch called "name of branch."
+1. git checkout -b "name of branch" starts a new branch
 
 2. Fast-forward merge happens when the original branch has not been worked on but the other branches have a conflict.
 Recursive merge happens when the original branch and another branch have a merge conflict.
